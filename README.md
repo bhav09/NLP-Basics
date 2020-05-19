@@ -14,3 +14,5 @@ Resources:
         Stopwords : https://towardsdatascience.com/treat-negation-stopwords-differently-according-to-your-nlp-task-e5a59ab7c91f
         
         Stemming : https://searchenterpriseai.techtarget.com/definition/stemming
+         
+        Speech Tagging: https://www.geeksforgeeks.org/nlp-part-of-speech-default-tagging/

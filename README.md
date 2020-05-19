@@ -6,10 +6,12 @@ This repository consists of all the necessary codes , basic theory and resources
 
 Resources:
 
-    1.
+    1.More about NLP : https://machinelearningmastery.com/natural-language-processing/
     
     
-    2.
+    2.  Tokenization : https://intellipaat.com/community/9025/tokenization-in-nlp
     
-    
-    3.
+        Stopwords : https://towardsdatascience.com/treat-negation-stopwords-differently-according-to-your-nlp-task-e5a59ab7c91f
+        
+        Stemming : https://searchenterpriseai.techtarget.com/definition/stemming
+

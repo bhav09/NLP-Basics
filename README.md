@@ -16,3 +16,5 @@ Resources:
         Stemming : https://searchenterpriseai.techtarget.com/definition/stemming
          
         Speech Tagging: https://www.geeksforgeeks.org/nlp-part-of-speech-default-tagging/
+        
+        Chunking : https://www.geeksforgeeks.org/nlp-chunking-and-chinking-with-regex/

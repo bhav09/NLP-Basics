@@ -6,8 +6,11 @@ To practice all this , I would recommend spyder IDE for the same because it will
 
 
 To download all the packages of nltk type this in the command prompt: 
+
 import nltk
 nltk.download()
+
+
 (make sure to have a python environment running on your cmd for the same)
 
 Resources:

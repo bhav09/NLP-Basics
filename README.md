@@ -14,7 +14,11 @@ nltk.download()
 
 (make sure to have a python environment running on your cmd for the same)
 
+
+
 The order of learning all the theory and code should be in the order as that of the topics mentioned in the resource section. 
+
+
 
 Resources:
 

@@ -20,3 +20,5 @@ print(lemm.lemmatize('mosquitoes')) #prints mosquito
 print(lemm.lemmatize('better',pos="a")) #prints good   (a) stands for adjective 
 #also the default parameter for lemmatizer is noun (n)
 
+print(lemm.lemmatize('eating',pos="v")) #prints eat
+

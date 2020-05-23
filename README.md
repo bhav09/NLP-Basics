@@ -16,6 +16,8 @@ nltk.download()
 
 ****************************************************************************************************************************
 
+Note:
+
 The order of learning all the theory and code should be in the order as that of the topics mentioned in the resource section. 
 
 ****************************************************************************************************************************

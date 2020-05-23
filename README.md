@@ -40,4 +40,6 @@ Resources:
         
         Named Entity Recognition : https://towardsdatascience.com/named-entity-recognition-3fad3f53c91e
         
+        Lemmatization : https://www.datacamp.com/community/tutorials/stemming-lemmatization-python
+        
     3. Applications of NLP : https://towardsdatascience.com/natural-language-processing-nlp-top-10-applications-to-know-b2c80bd428cb  

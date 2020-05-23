@@ -14,10 +14,13 @@ nltk.download()
 
 (make sure to have a python environment running on your cmd for the same)
 
+The order of learning all the theory and code should be in the order as that of the topics mentioned in the resource section. 
+
 Resources:
 
     1.More about NLP : https://machinelearningmastery.com/natural-language-processing/
     
+    Topics:
     
     2.  Tokenization : https://intellipaat.com/community/9025/tokenization-in-nlp
     

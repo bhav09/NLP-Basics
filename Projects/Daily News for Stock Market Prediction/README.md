@@ -14,5 +14,4 @@ Sun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retri
 
 ### Source: Kaggle
 
-### Dataset 
-(Link)[https://www.kaggle.com/aaron7sun/stocknews]
+### Dataset [Link](https://www.kaggle.com/aaron7sun/stocknews)

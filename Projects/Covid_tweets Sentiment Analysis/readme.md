@@ -2,6 +2,8 @@
 
 It is an NLP based classification problem of Covid tweets sentiment analyis.
 
+---------------------------------------------------------------------------------------
+
 ### About Features
 
 Username: User's username which is denoted with integers
@@ -25,5 +27,7 @@ Sentiment: It denotes the type of tweet. It is a categorical variable which has 
   * Negative
   
   * Extremely Negative
+
+---------------------------------------------------------------------------------------
 
 ### Dataset [Link](https://github.com/bhav09/NLP_basics/blob/master/Projects/Covid_tweets%20Sentiment%20Analysis/data.zip)

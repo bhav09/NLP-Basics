@@ -1,6 +1,6 @@
 # About
 
-It is an NLP based classification problem of Covid tweets sentiment analyis.
+It is an NLP based classification problem of Covid tweets sentiment analyis. This is a very small dataset which consists of the tweets from a small location dating from mid march to mid april 2020.
 
 ---------------------------------------------------------------------------------------
 
@@ -27,6 +27,16 @@ Sentiment: It denotes the type of tweet. It is a categorical variable which has 
   * Negative
   
   * Extremely Negative
+
+---------------------------------------------------------------------------------------
+
+### About Dataset
+
+The data set consists of two files: train and test
+
+Training set consists of 41157 tweets
+
+Testing set consists of 3798 tweets
 
 ---------------------------------------------------------------------------------------
 

@@ -24,8 +24,7 @@ Department Name: Categorical name of the product department name.
 
 Class Name: Categorical name of the product class name.
 
-##Acknowledgements
-
+## Acknowledgements
 Anonymous but real source
 
 ## Source: Kaggle
